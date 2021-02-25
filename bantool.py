@@ -33,7 +33,7 @@ commandlist = config["commands"]
 
 
 def execute_command(command: str):
-    if os.path.isfile("unban.txt"):
+    if os.path.isfile("namelist.txt"):
         start = time.time()
         amount = 0
         with open("namelist.txt", "r") as f:
