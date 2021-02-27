@@ -1,0 +1,5 @@
+{
+  "command_delay": 0.0000001,
+  "delay_every_n_commands": [ 0.1, 100000 ],
+  "commands": [ "/ban", "/block", "/unban", "/unblock" ]
+}
