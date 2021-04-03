@@ -1,4 +1,5 @@
-# Mass-Ban-Tool
+# Mass-Ban-Tool (OBSOLETE)
+# New version over at https://github.com/pixelsuchter/Bantool-2
 A small python tool to help streamers mass ban or block users (eg. bots)
 
 Before use you need to rename one of the config files to "config.json"
