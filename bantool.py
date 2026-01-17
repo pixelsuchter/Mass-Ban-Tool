@@ -60,4 +60,4 @@ while True:
         execute_command(commandlist[decision])
 
     except (IndexError, ValueError):
-        sys.exit(0)
+        sys.exit(4)
